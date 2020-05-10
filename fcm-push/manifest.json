@@ -1,0 +1,13 @@
+{
+  "name": "Raviya Technical Demo",
+  "short_name": "Raviya Technical",
+  "icons": [{
+        "src": "img/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  "start_url": "/index.php",
+  "display": "standalone",
+  "gcm_sender_id": "317130190747"
+
+}
